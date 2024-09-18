@@ -12,6 +12,8 @@ settings:
     - version-number: "12.5"
       url: /element-software
    # Additional releases newest to oldest
+    - version-number: "12.7"
+      url: /element-software
     - version-number: "12.3"
       url: /element-software-123
 sidebar:
