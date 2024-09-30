@@ -10,7 +10,7 @@ settings:
   versions:
    # Current repo stanza comes first
     - version-number: "12.5"
-      url: /element-software
+      url: /element-software-125
    # Additional releases newest to oldest
     - version-number: "12.7"
       url: /element-software
@@ -18,7 +18,7 @@ settings:
       url: /element-software-123
 sidebar:
   entries:
-    - title: SolidFire and Element Software Documentation
+    - title: SolidFire and Element Software Documentation 12.5
       url: /index.html
     - title: Release notes
       url: /concepts/concept_rn_relatedrn_element.html
