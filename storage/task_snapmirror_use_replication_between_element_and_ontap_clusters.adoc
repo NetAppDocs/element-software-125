@@ -23,4 +23,4 @@ https://www.netapp.com/pdf.html?item=/media/17048-tr4641pdf.pdf[NetApp Technical
 == Find more information
 
 * https://www.netapp.com/pdf.html?item=/media/16991-tr4748pdf.pdf[Building your Data Fabric with NetApp HCI, ONTAP, and Converged Infrastructure^]
-* link:element-replication-index.html[Perform replication between NetApp Element Software and ONTAP (ONTAP CLI)]
+* link:element-replication-index.html[Perform replication between NetApp Element software and ONTAP (ONTAP CLI)]

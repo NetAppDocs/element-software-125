@@ -4,7 +4,7 @@ sidebar: sidebar
 keywords: ontap, cli, replication, element, software, ontap, business continuity, snapmirror, replicate, snapshot, copies, volume
 summary: "You can ensure business continuity on an Element system by using SnapMirror to replicate snapshot copies of an Element volume to an ONTAP destination."
 ---
-= Replication between NetApp Element software and ONTAP overview (ONTAP CLI)
+= Perform replication between NetApp Element software and ONTAP overview (ONTAP CLI)
 :icons: font
 :imagesdir: ../media/
 
