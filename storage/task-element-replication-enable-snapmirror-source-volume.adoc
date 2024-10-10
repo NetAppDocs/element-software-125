@@ -9,7 +9,7 @@ summary: "You must enable SnapMirror on the Element source volume before you can
 :imagesdir: ../media/
 
 [.lead]
-You must enable SnapMirror on the Element source volume before you can create a replication relationship. You can only perform this task in the link:concept_snapmirror_labels.html[Element software web UI] or using the link:../api/concept_element_api_snapshots_overview.html[API methods].
+You must enable SnapMirror on the Element source volume before you can create a replication relationship. You can only perform this task in the Element software web UI or using the link:../api/reference_element_api_modifyvolume.html[ModifyVolume] and link:../api/reference_element_api_modifyvolumes.html[ModifyVolumes] API methods.
 
 .Before you begin
 

@@ -9,7 +9,7 @@ summary: "You must create a SnapMirror endpoint before you can create a replicat
 :imagesdir: ../media/
 
 [.lead]
-You must create a SnapMirror endpoint before you can create a replication relationship. You can only perform this task in the link:concept_snapmirror_labels.html[Element software web UI] or using the link:../api/concept_element_api_snapshots_overview.html[API methods].
+You must create a SnapMirror endpoint before you can create a replication relationship. You can only perform this task in the link:concept_snapmirror_labels.html[Element software web UI] or using the link:../api/concept_element_api_snapmirror_api_methods.html[SnapMirror API methods].
 
 .Before you begin
 
