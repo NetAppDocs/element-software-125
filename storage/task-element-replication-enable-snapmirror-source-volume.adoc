@@ -2,14 +2,14 @@
 permalink: storage/task-element-replication-enable-snapmirror-source-volume.html
 sidebar: sidebar
 keywords: enable, snapmirror, element, source, volume
-summary: "You must enable SnapMirror on the Element source volume before you can create a replication relationship. You can perform this task in the Element software web UI only."
+summary: "You must enable SnapMirror on the Element source volume before you can create a replication relationship. You can only perform this task in the Element software web UI or using the API methods."
 ---
 = Enable SnapMirror on the Element source volume
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
-You must enable SnapMirror on the Element source volume before you can create a replication relationship. You can perform this task in the Element software web UI only.
+You must enable SnapMirror on the Element source volume before you can create a replication relationship. You can only perform this task in the link:concept_snapmirror_labels.html[Element software web UI] or using the link:../api/concept_element_api_snapshots_overview.html[API methods].
 
 .Before you begin
 

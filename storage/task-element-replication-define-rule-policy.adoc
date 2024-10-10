@@ -1,7 +1,7 @@
 ---
 permalink: storage/task-element-replication-define-rule-policy.html
 sidebar: sidebar
-keywords: define, rule, policy
+keywords: ontap, cli, define, rule, policy
 summary: "For custom policies with the “mirror-vault” policy type, you must define at least one rule that determines which snapshot copies are transferred during initialization and update. You can also define rules for default policies with the “mirror-vault” policy type."
 ---
 = Define a rule for a policy

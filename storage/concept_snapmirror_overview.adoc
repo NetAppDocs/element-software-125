@@ -4,7 +4,6 @@ sidebar: sidebar
 keywords: overview, snapmirror, snapshots, replicating between clusters, managing snapmirror relationships, Element and ONTAP
 summary: 'Systems running NetApp Element software support SnapMirror functionality to copy and restore snapshots with NetApp ONTAP systems.'
 ---
-
 = SnapMirror overview
 :icons: font
 :imagesdir: ../media/
@@ -14,8 +13,6 @@ Systems running NetApp Element software support SnapMirror functionality to copy
 
 Systems running Element can communicate directly with SnapMirror on ONTAP systems 9.3 or higher. The NetApp Element API provides methods to enable SnapMirror functionality on clusters, volumes, and snapshots. Additionally, the Element UI includes all necessary functionality to manage SnapMirror relationships between Element software and ONTAP systems.
 
-You can replicate ONTAP originated volumes to Element volumes in specific use cases with limited functionality. For more information, see ONTAP documentation.
+You can replicate ONTAP originated volumes to Element volumes in specific use cases with limited functionality. For more information, see link:element-replication-index.html[Replication between Element software and ONTAP (ONTAP CLI)].
 
-== Find more information
-
-http://docs.netapp.com/ontap-9/topic/com.netapp.doc.pow-sdbak/home.html[Replication between Element software and ONTAP]
+// 2024 SEP 23, DOC-4761
