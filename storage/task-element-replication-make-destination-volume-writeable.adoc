@@ -1,7 +1,7 @@
 ---
 permalink: storage/task-element-replication-make-destination-volume-writeable.html
 sidebar: sidebar
-keywords: make, destination, volume, write
+keywords: ontap, cli, make, destination, volume, write
 summary: "You need to make the destination volume writeable before you can serve data from the volume to clients. You can use the snapmirror quiesce command to stop scheduled transfers to the destination, the snapmirror abort command to stop ongoing transfers, and the snapmirror break command to make the destination writeable."
 ---
 = Make the destination volume writeable

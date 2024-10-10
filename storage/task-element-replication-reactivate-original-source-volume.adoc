@@ -1,7 +1,7 @@
 ---
 permalink: storage/task-element-replication-reactivate-original-source-volume.html
 sidebar: sidebar
-keywords: reactivate. original, source, volume
+keywords: ontap, cli, reactivate, original, source, volume
 summary: "You can reestablish the original data protection relationship between the source and destination volumes when you no longer need to serve data from the destination."
 ---
 = Reactivate the original source volume
