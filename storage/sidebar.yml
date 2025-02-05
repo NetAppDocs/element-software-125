@@ -355,7 +355,7 @@ entries:
             url: "/storage/task_snapmirror_performing_failback_when_source_volume_no_longer_exists.html"
         - title: Perform a transfer or one-time migration from ONTAP to Element
           url: "/storage/task_snapmirror_transfer_or_one_time_migration_from_ontap_to_element.html"
-    - title:  Perform replication between NetApp Element software and ONTAP (ONTAP CLI)
+    - title: Perform replication between NetApp Element software and ONTAP (ONTAP CLI)
       entries:
       - title: Overview
         url: "/storage/element-replication-index.html"
