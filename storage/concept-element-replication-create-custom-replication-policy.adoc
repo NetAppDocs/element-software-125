@@ -2,7 +2,7 @@
 permalink: storage/concept-element-replication-create-custom-replication-policy.html
 sidebar: sidebar
 keywords: ontap, cli, create, custom, replication, policy, relationship, 
-summary: "You can create a custom replication policy using the ONTAP CLI if the default policy for a relationship is not suitable."
+summary: "You can create a custom replication policy if the default policy for a relationship is not suitable."
 ---
 = Create a custom replication policy
 :icons: font
@@ -10,7 +10,7 @@ summary: "You can create a custom replication policy using the ONTAP CLI if the 
 
 [.lead]
 
-You can use a default or custom policy when you create a replication relationship using the ONTAP CLI. For a custom unified replication policy, you must define one or more _rules_ that determine which snapshot copies are transferred during initialization and update.
+You can use a default or custom policy when you create a replication relationship. For a custom unified replication policy, you must define one or more _rules_ that determine which snapshot copies are transferred during initialization and update.
 
 You can create a custom replication policy if the default policy for a relationship is not suitable. You might want to compress data in a network transfer, for example, or modify the number of attempts SnapMirror makes to transfer snapshot copies.
 

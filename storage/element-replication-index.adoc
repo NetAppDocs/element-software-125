@@ -1,10 +1,10 @@
 ---
 permalink: storage/element-replication-index.html
 sidebar: sidebar
-keywords: decide, replication, netapp element software, ontap, business continuity, element, system, snapmirror, replicate, snapshot, copies, volume
+keywords: ontap, cli, replication, element, software, ontap, business continuity, snapmirror, replicate, snapshot, copies, volume
 summary: "You can ensure business continuity on an Element system by using SnapMirror to replicate snapshot copies of an Element volume to an ONTAP destination."
 ---
-= Replication between NetApp Element software and ONTAP overview
+= Perform replication between NetApp Element software and ONTAP overview (ONTAP CLI)
 :icons: font
 :imagesdir: ../media/
 
@@ -16,7 +16,7 @@ Beginning with ONTAP 9.4, you can replicate snapshot copies of a LUN created on 
 You should work with Element to ONTAP backup if the following apply:
 
 * You want to use best practices, not explore every available option.
-* You want to use the ONTAP command-line interface (CLI), not the Element UI, System Manager,storage/concept-element-replication-create-custom-replication-policy or an automated scripting tool.
+* You want to use the ONTAP command-line interface (CLI), not System Manager or an automated scripting tool.
 * You are using iSCSI to serve data to clients.
 
 If you require additional SnapMirror configuration or conceptual information, see link:https://docs.netapp.com/us-en/ontap/data-protection-disaster-recovery/index.html[Data protection overview^].
@@ -117,7 +117,7 @@ You must have completed the following tasks before configuring a data protection
 +
 [NOTE]
 ====
-You can perform this task in the Element software web UI only.
+You can only perform this task in the link:concept_snapmirror_labels.html[Element software web UI] or using the link:../api/concept_element_api_snapshots_overview.html[API methods].
 ====
 
 * You must have ensured that port 5010 is available.

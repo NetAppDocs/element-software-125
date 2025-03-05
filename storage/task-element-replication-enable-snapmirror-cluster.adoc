@@ -1,15 +1,15 @@
 ---
 permalink: storage/task-element-replication-enable-snapmirror-cluster.html
 sidebar: sidebar
-keywords: enable, snapmirror, element, cluster
-summary: "You must enable SnapMirror on the Element cluster before you can create a replication relationship. You can perform this task in the Element software web UI only."
+keywords: ontap, cli, enable, snapmirror, element, cluster
+summary: "You must enable SnapMirror on the Element cluster before you can create a replication relationship. You can only perform this task in the Element software web UI or using the API methods."
 ---
 = Enable SnapMirror on the Element cluster
 :icons: font
 :imagesdir: ../media/
 
 [.lead]
-You must enable SnapMirror on the Element cluster before you can create a replication relationship. You can perform this task in the Element software web UI only.
+You must enable SnapMirror on the Element cluster before you can create a replication relationship. You can only perform this task in the Element software web UI or using the link:../api/reference_element_api_enablefeature.html[API method].
 
 .Before you begin
 
