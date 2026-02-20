@@ -202,4 +202,4 @@ NOTE: SSH remains enabled on the management node if you do not disable it. SSH e
 [discrete]
 == Find more information
 * https://docs.netapp.com/us-en/vcp/index.html[NetApp Element Plug-in for vCenter Server^]
-* https://www.netapp.com/hybrid-cloud/hci-documentation/[NetApp HCI Resources Page^]
+* https://docs.netapp.com/us-en/hci/index.html[NetApp HCI Documentation^]
