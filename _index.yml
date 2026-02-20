@@ -70,8 +70,6 @@ indexpage:
           url: https://mysupport.netapp.com/site/products/all/details/solidfire-vss-provider/downloads-tab
     - title: Solutions
       links:
-      # - title: SolidFire Resources page
-      #   url: https://www.netapp.com/data-storage/solidfire/documentation/
         - title: NetApp Solutions
           url: https://docs.netapp.com/us-en/netapp-solutions/index.html
     - title: Demos & tutorials

@@ -97,5 +97,5 @@ You should start the demo node VM to access Element through the VMware ESXi cons
 Element Demo Node is available on a best-effort volunteer basis. For support, post your questions to the https://community.netapp.com/t5/Simulator-Discussions/bd-p/simulator-discussions[Element Demo Node Forum^].
 
 == Find more information
-* https://www.netapp.com/data-storage/solidfire/documentation/[SolidFire All-Flash Storage Resources page^]
-* https://mysupport.netapp.com/site/tools/tool-eula/element-demonode/download[Element Demo Node download page (login required)^]
+
+https://mysupport.netapp.com/site/tools/tool-eula/element-demonode/download[Element Demo Node download page (login required)^]
