@@ -16,7 +16,7 @@ Details of each API method can be found in the link:../api/index.html[Element AP
 
 . Create a new third-party Identity Provider (IdP) configuration for the cluster by calling the following API method and passing the IdP metadata in JSON format: `CreateIdpConfiguration`
 +
-IdP metadata, in plain text format, is retrieved from the third-party IdP. This metadata needs to be validated to ensure that it is correctly formatted in JSON. There are numerous JSON formatter applications available that you can use, for example:https://freeformatter.com/json-escape.html.
+IdP metadata, in plain text format, is retrieved from the third-party IdP. This metadata needs to be validated to ensure that it is correctly formatted in JSON. There are numerous JSON formatter applications available that you can use, +for example:https://freeformatter.com/json-escape.html.+
 
 . Retrieve cluster metadata, via spMetadataUrl, to copy to the third-party IdP by calling the following API method: `ListIdpConfigurations`
 +
