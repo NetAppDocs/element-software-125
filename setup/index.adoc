@@ -29,6 +29,3 @@ Learn how to set up set up the storage system for your environment.
 ** xref:task_setup_gh_redirect_set_up_a_management_node.adoc[Set up a management node]
 ** xref:concept_setup_whats_next.adoc[What's next?]
 
-== Find more information
-* https://www.netapp.com/data-storage/solidfire/[SolidFire all-flash storage overview^]
-* https://docs.netapp.com/us-en/element-software/index.html[SolidFire and Element Software Documentation]
